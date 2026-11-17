@@ -56,3 +56,28 @@ Sin palabras raras.
 Entra al link de mi bio.
 Y empieza a conquistar.
 ```
+
+## Versión future pacing + CTA (~55 s) — RECOMENDADA
+```
+Quien sabe de vino, conquista.
+Hoy te pasan la carta y eliges por el precio.
+Pides el segundo más barato y cruzas los dedos.
+Ahora adelanta la película.
+Es viernes. Primera cita.
+Te pasan la carta y no te tiembla la mano.
+Eliges la botella sin mirar el precio.
+Giras la copa.
+Le cuentas en dos frases de qué valle viene.
+Y ves cómo te mira.
+Un mes después, cena con amigos.
+Tú abres la botella.
+Y todos te preguntan: ¿cómo sabes tanto de vino?
+Eso no es talento. Se aprende.
+Soy Marcelo Pino, Mejor Sommelier de Chile.
+Y lo enseño en Vino desde Cero.
+Nueve módulos de ocho minutos.
+Menos de lo que dura una película.
+Entra hoy al link de mi bio.
+Porque la próxima vez que te pasen la carta,
+el que conquista eres tú.
+```
