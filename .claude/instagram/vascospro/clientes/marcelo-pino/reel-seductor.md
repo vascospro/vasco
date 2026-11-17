@@ -120,3 +120,60 @@ Comenta CURSO y te enviamos toda la información por DM.
 
 #vino #vinochileno #sommelier
 ```
+
+## Versión con invitación extendida (~61 s) — ACTUAL
+```
+Quien sabe de vino, conquista.
+Hoy eliges el vino por el precio.
+Pides el segundo más barato y cruzas los dedos.
+Ahora adelanta la película.
+Es viernes. Primera cita.
+Llega la carta y no te tiembla la mano.
+Eliges la botella sin mirar el precio.
+Giras la copa.
+Le cuentas en dos frases de qué valle viene.
+Y ves cómo te mira.
+No se esperaba verte tan seguro.
+Porque el vino seduce.
+Eso no es talento. Se aprende.
+Soy Marcelo Pino, Mejor Sommelier de Chile.
+Y te invito a ser parte
+de la primera generación de mi academia.
+Con mi primer curso online: Vino desde Cero.
+Nueve módulos de ocho minutos.
+Los tipos de vino, los valles de Chile, las cepas.
+Cómo leer una etiqueta y cómo servirlo.
+Todo conversado, sin palabras raras.
+Comenta CURSO y te enviamos toda la información.
+Porque la próxima vez que te pasen la carta,
+el que conquista eres tú.
+```
+
+### Variante larga con escena de amigos (~69 s)
+```
+Quien sabe de vino, conquista.
+Hoy te pasan la carta y eliges por el precio.
+Pides el segundo más barato y cruzas los dedos.
+Ahora adelanta la película.
+Es viernes. Primera cita.
+Te pasan la carta y no te tiembla la mano.
+Eliges la botella sin mirar el precio.
+Giras la copa.
+Le cuentas en dos frases de qué valle viene.
+Y ves cómo te mira.
+No se esperaba verte tan seguro.
+Porque el vino seduce.
+Un mes después, cena con amigos.
+Y todos te preguntan: ¿cómo sabes tanto de vino?
+Eso no es talento. Se aprende.
+Soy Marcelo Pino, Mejor Sommelier de Chile.
+Y te invito a ser parte de la primera generación de mi academia.
+Con mi primer curso online: Vino desde Cero.
+Nueve módulos de ocho minutos.
+Los tipos de vino, los valles de Chile, las cepas.
+Cómo leer una etiqueta y cómo servirlo.
+Todo conversado, sin palabras raras.
+Comenta CURSO y te enviamos toda la información.
+Porque la próxima vez que te pasen la carta,
+el que conquista eres tú.
+```
