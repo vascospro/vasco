@@ -29,3 +29,30 @@ Nueve módulos de ocho minutos.
 Sin palabras raras.
 Link en mi bio. Y a conquistar.
 ```
+
+## Versión larga (~55 s)
+```
+Quien sabe de vino, conquista.
+Y no es por hacerse el sabio.
+Es por cómo te mueves cuando sabes lo que haces.
+Sin miedo a la carta.
+Sin elegir por el precio.
+Primera cita. Llega la carta.
+Y tú eliges la botella sin dudar.
+Giras la copa.
+Le cuentas en dos frases de dónde viene ese vino.
+Y ves cómo te mira.
+Cena con amigos. Tú abres la botella.
+Y todos quieren saber qué elegiste.
+Y por qué.
+Ese día el vino deja de ser un misterio.
+Y pasa a ser tu mejor aliado.
+Eso no es talento. Se aprende.
+Soy Marcelo Pino, Mejor Sommelier de Chile.
+Y lo enseño en Vino desde Cero, mi academia online.
+Nueve módulos cortos.
+Los valles, las cepas, cómo leer una etiqueta.
+Sin palabras raras.
+Entra al link de mi bio.
+Y empieza a conquistar.
+```
