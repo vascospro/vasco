@@ -23,3 +23,9 @@ Conclusiones:
 4. Los Reels más recientes están bajo la mediana (6–18 mil): hay que recuperar el impulso.
 
 Pendiente: seguidores ganados por Reel (Estadísticas de cada Reel) para confirmar cuáles convierten.
+
+## Trivia "¿Cuánto sabemos los chilenos de vino?" (agregado 19-11)
+- P2: 10,9 mil vistas (0,2x). P1: vistas no visibles en la captura.
+- Formato con potencial (cercanía, calle, serie, enseña vino como juego); el bajo rendimiento apunta al gancho y la portada, no a la idea.
+- Episodio ganadora (18-11): respondió 3/3 y ganó un vino de $120.000. Video en Drive: "ganadora vino" (120 MB).
+- Propuesta: abrir con el momento del triunfo y el premio; preguntas en pantalla para que el público juegue; CTA "comenta cuántas sacaste".
