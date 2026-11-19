@@ -40,3 +40,32 @@ Porque todos merecemos nuestro nombre.
 - Día del Carmenère: 24 nov (no 27). Publicar el 24 por la mañana.
 - Aprobación de Marcelo para contar lo de su padre (alternativa suave en el chat).
 - Nombre exacto del carmenère de Casa Silva + etiqueta "Colaboración pagada" (es embajador).
+
+## Versión 2 — gancho de Jorge (~69 s) — Drive: 1fSFRxf4XkZrITsYe-135VS_qN4tRHlbsStbmcv3xEJg
+```
+En 1994 tenía 12 años.
+Y quería saber quién era mi padre.
+Ese mismo año, un vino descubrió quién era.
+Se llama carmenère.
+Llegó desde Burdeos a mediados del 1800.
+Una plaga arrasó Europa y allá casi desapareció.
+Pero en Chile sobrevivió. Escondido.
+Por 140 años lo creímos merlot.
+Hasta el 24 de noviembre de 1994.
+Un experto francés recorría Viña Carmen.
+Miró las hojas y lo supo: no era merlot.
+¿Y yo? Fui a conocer a mi papá.
+Me dijo que me devolviera por donde vine.
+Ese día decidí creer en mí.
+Al carmenère nadie lo reconocía. A mí tampoco.
+Hoy él es la cepa emblema de Chile.
+Y yo, dos veces Mejor Sommelier de Chile.
+Para conocerlo, parte por tres.
+Carmín de Peumo, de Concha y Toro.
+Purple Angel, de Montes.
+Y el de Casa Silva.
+La viña que creyó en mí.
+Este 24, brinda con un carmenère.
+Sígueme, que mi historia recién empieza.
+Porque hoy los dos sabemos quiénes somos.
+```
