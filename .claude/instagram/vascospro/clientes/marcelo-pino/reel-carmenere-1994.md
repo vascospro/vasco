@@ -69,3 +69,33 @@ Este 24, brinda con un carmenère.
 Sígueme, que mi historia recién empieza.
 Porque hoy los dos sabemos quiénes somos.
 ```
+
+## Versión 3 — niño en la playa, sin el papá (~69 s) — ELEGIDA. Drive: 1u7Pfqd55Cr_XEquq2bz_Orz7SkBb7hSiMGmYS5nUx3w
+```
+En 1994 tenía 12 años.
+Vendía cuchuflís en las playas de Pichilemu.
+Pasaba entre los turistas y nadie me veía.
+Ese mismo año, un vino también pasaba desapercibido.
+Se llama carmenère.
+Llegó desde Burdeos a mediados del 1800.
+Una plaga arrasó Europa y allá casi desapareció.
+Pero en Chile sobrevivió. Escondido.
+Por 140 años lo creímos merlot.
+Hasta el 24 de noviembre de 1994.
+Un experto francés recorría Viña Carmen.
+Miró las hojas y lo supo: no era merlot.
+Por fin alguien lo vio.
+A los dos nos costó que nos vieran.
+Hoy él es la cepa emblema de Chile.
+Y el niño de la playa,
+dos veces Mejor Sommelier de Chile.
+Para conocerlo, parte por tres.
+Carmín de Peumo, de Concha y Toro.
+Purple Angel, de Montes.
+Y el de Casa Silva.
+La viña que creyó en mí.
+Este 24, brinda con un carmenère.
+Sígueme, que mi historia recién empieza.
+Si ves a un niño vendiendo en la playa,
+míralo bien.
+```
