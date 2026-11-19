@@ -29,3 +29,6 @@ Aquí están instaladas las skills `/ig-*` (en `.claude/skills/`).
 5. Si `voice.md` de la cuenta todavía tiene campos `{{...}}` sin completar,
    avisa qué falta antes de escribir algo largo.
 6. Nada se publica. Las skills escriben; Jorge publica.
+7. **Entregables en Google Drive.** Jorge no abre archivos del repositorio. Todo libreto o
+   análisis terminado se entrega como Google Doc en su Drive (cliente Marcelo Pino: carpeta
+   con id 1FOKC_UOS9VSbrfO_NgZO3oVPbZPoPRus) y se le pasa el link. El repo queda como respaldo.
